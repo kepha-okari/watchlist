@@ -1,5 +1,5 @@
 import unittest
-from .models import movies
+from .models import movie
 
 Movie = movie.Movie
 
