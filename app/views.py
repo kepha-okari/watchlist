@@ -24,6 +24,7 @@ def movie(id):
 
 
 # Views
+# Views
 @app.route('/')
 def index():
 
